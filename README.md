@@ -1,1 +1,1 @@
-# skill_lab_sem4
+# Our college has set up skill lab session from 8/7/24 to 13/7/24 on PCB design
