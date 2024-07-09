@@ -24,5 +24,6 @@
   <summary>Session-1</summary>
   1) Some server errors, how to get to know the status of a server? How to ping it?</br>
   2) CMOS inverter on Cadence software.</br>
+  3) https://youtu.be/64c4djOzam8?feature=shared
 </details>
 </details>
