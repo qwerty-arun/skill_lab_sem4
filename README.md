@@ -17,3 +17,12 @@
   3) Tutorials on youtube are available. 
 </details>
 </details>
+
+<details>
+  <summary>Day2</summary>
+<details>
+  <summary>Session-1</summary>
+  1) Some server errors, how to get to know the status of a server? How to ping it?
+  2) CMOS inverter on Cadence software.
+</details>
+</details>
