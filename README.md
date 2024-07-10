@@ -33,4 +33,16 @@
   3) How do you reduce the number of transistors? From the truth table, find something which is common, you can remove redundancy.</br>
   4) In total, 38 transistors are required to realise the 1 bit full adder. </br>
 </details>
+  <details>
+  <summary>Day3</summary>
+<details>
+  <summary>Session-1</summary>
+  1) Complete basics of CMOS technology, its equivalent layout design, manufacturing process and much more.</br>
+  2) Working of pmos, nmos and equations related to it.</br>
+  3) Manufacturing of silicon wafers using ingots, testing of silicon dyes, then defected ones are rejected.
+</details>
+  <details>
+  <summary>Session-2 and 3</summary>
+1) 
+</details>
 </details>
