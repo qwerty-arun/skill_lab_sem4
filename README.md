@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary>Day3</summary>
+  <summary>Day4</summary>
 <details>
   <summary>Session-1</summary>
   1) Realisation of Half-adder using already ready made NAND gate layout. </br>
