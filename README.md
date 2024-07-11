@@ -47,3 +47,18 @@
     1) Inverter Layout tutorial: https://www.youtube.com/watch?v=-PUA56qGOoY </br>
     2) NAND gate layout tutorial: https://youtu.be/Kp09HhWcKlg?si=K48R7tG1EpJhAKtr  </br>
 </details>
+
+<details>
+  <summary>Day3</summary>
+<details>
+  <summary>Session-1</summary>
+  1) Realisation of Half-adder using already ready made NAND gate layout. </br>
+  2) Realisation of Full-Adder using Half Adder layouts.</br>
+</details>
+<details>
+<summary>Session-2 and 3</summary>
+  1) Multiplexer Design. </br>
+  2) Multiplexer circuit design using CMOS tech. </br>
+  3) Realisation using Cadence Software. </br>
+</details>
+</details>
