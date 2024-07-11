@@ -47,6 +47,7 @@
     1) Inverter Layout tutorial: https://www.youtube.com/watch?v=-PUA56qGOoY </br>
     2) NAND gate layout tutorial: https://youtu.be/Kp09HhWcKlg?si=K48R7tG1EpJhAKtr  </br>
 </details>
+</details>
 
 <details>
   <summary>Day4</summary>
@@ -61,4 +62,4 @@
   2) Multiplexer circuit design using CMOS tech. </br>
   3) Realisation using Cadence Software. </br>
 </details>
-</details>
+
