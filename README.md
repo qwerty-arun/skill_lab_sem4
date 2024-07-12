@@ -62,4 +62,20 @@
   2) Multiplexer circuit design using CMOS tech. </br>
   3) Realisation using Cadence Software. </br>
 </details>
-
+</details>
+<details>
+  <summary>Day5</summary>
+<details>
+  <summary>Session-1</summary>
+  1) Power optimization techniques for VLSI design. </br>
+  2) Design of SRAM. </br>
+</details>
+<details>
+<summary>Session-2 and 3</summary>
+  1) https://youtu.be/EkY2MJ_qMJc?si=HGUdJeJijfH-8TLo  </br>
+  2) https://youtu.be/V_Hfqq8ylVo?si=2xfiXLZ7MxcYR7_U  </br>
+  3) https://youtu.be/CTPxV2ImV6s?si=OTLIgExo9quMKHvW  </br>
+  4) https://youtu.be/661dmRnVp9M?si=ByLDIp_dXsdGY_aO  </br>
+  5) https://youtu.be/6Ys0v3U90q4?si=nmH69HHUPZ8ran3m  </br>
+  6) In Summary: Design of SRAM, Optimizing SRAM design, CMOS inverter (parasitic extraction and post-layout simulation). </br>
+</details>
